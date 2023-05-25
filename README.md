@@ -2,6 +2,8 @@
 
 # Project Title: Credit Card Fraud Analysis and Detection using Kaggle Dataset
 
+Link to download the dataset https://drive.google.com/file/d/13vhzyateQeZrhq2Y2hjlvrvwVQcyMgzE/view?usp=share_link
+
 # Project Description:
 The Credit Card Fraud Analysis and Detection project aims to develop an effective solution for identifying and preventing credit card fraud. The project utilizes a dataset obtained from Kaggle, which is initially cleaned and preprocessed to ensure data quality. The processed dataset is then split into training and testing sets for model evaluation.
 
