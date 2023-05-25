@@ -18,3 +18,10 @@ Once the models are trained and optimized, the project focuses on scaling the da
 Using Apache Spark, the project performs advanced data analysis techniques, including feature engineering, data transformations, and model evaluation on the replicated dataset. These techniques enhance the accuracy and effectiveness of the fraud detection models.
 
 By combining the power of Kaggle datasets, data cleaning and preprocessing, exploratory data analysis, model comparison, hyperparameter tuning, Hadoop cluster replication, and Apache Spark's distributed computing, this project aims to provide a robust credit card fraud analysis and detection system. The results obtained from this project contribute to the development of effective fraud detection techniques and aid in protecting users against financial losses due to fraudulent activities.
+
+# Outputs
+![image](https://github.com/charan047/Credit-Card-Fraud-Analysis/assets/93238151/81931193-28c8-4a26-8d81-2cc01e4fe87e)
+![image](https://github.com/charan047/Credit-Card-Fraud-Analysis/assets/93238151/d07b173f-110c-4653-a6ef-280685357ae0)
+![image](https://github.com/charan047/Credit-Card-Fraud-Analysis/assets/93238151/e531a419-c1c7-4446-8e28-001157c1cdcb)
+![image](https://github.com/charan047/Credit-Card-Fraud-Analysis/assets/93238151/ddebd176-0498-4213-9f82-13bce3944002)
+![image](https://github.com/charan047/Credit-Card-Fraud-Analysis/assets/93238151/04b3dd29-73fd-4974-b5ac-88a4ded40ca7)
