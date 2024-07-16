@@ -1,6 +1,6 @@
-# Credit-Card-Fraud-Analysis
+# Credit Card Fraud Prediction using Decision Trees, SMOTE, and Hyper-Tuned Random Forests: A Comprehensive Approach
 
-# Project Title: Credit Card Fraud Analysis and Detection using Kaggle Dataset
+# Project Title: Credit Card Fraud Analysis and Detection
 
 Link to download the dataset https://drive.google.com/file/d/13vhzyateQeZrhq2Y2hjlvrvwVQcyMgzE/view?usp=share_link
 
@@ -18,6 +18,8 @@ Once the models are trained and optimized, the project focuses on scaling the da
 Using Apache Spark, the project performs advanced data analysis techniques, including feature engineering, data transformations, and model evaluation on the replicated dataset. These techniques enhance the accuracy and effectiveness of the fraud detection models.
 
 By combining the power of Kaggle datasets, data cleaning and preprocessing, exploratory data analysis, model comparison, hyperparameter tuning, Hadoop cluster replication, and Apache Spark's distributed computing, this project aims to provide a robust credit card fraud analysis and detection system. The results obtained from this project contribute to the development of effective fraud detection techniques and aid in protecting users against financial losses due to fraudulent activities.
+### Link to Our IEEE published Research Paper
+https://ieeexplore.ieee.org/abstract/document/10290611
 
 # Outputs
 ![image](https://github.com/charan047/Credit-Card-Fraud-Analysis/blob/main/outputs/spark1.png)
